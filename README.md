@@ -6,4 +6,8 @@ Arquivos JSON com dados do Fantasy Premier League 15/16 dos 723 jogadores que di
 
 Informações obtidas através da API do Fantasy Premier League:
 
-http://fantasy.premierleague.com/web/api/elements/1 ... http://fantasy.premierleague.com/web/api/elements/723
+http://fantasy.premierleague.com/web/api/elements/1
+
+Referência:
+
+https://dataficacao.wordpress.com/2016/07/02/gerando-relatorios-e-analises-da-premier-league-1516-com-r-e-power-bi/
